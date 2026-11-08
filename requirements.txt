@@ -1,0 +1,5 @@
+# Python 3.11 Windows 64-bit. Pacotes para a prova de conceito A.R.C.
+# A variante contrib do OpenCV evita instalar duas distribuicoes que fornecem cv2.
+mediapipe==1.2.2
+opencv-contrib-python>=4.8,<5
+numpy>=1.26,<3

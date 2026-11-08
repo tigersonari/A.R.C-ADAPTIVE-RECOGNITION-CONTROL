@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.vscode/
+models/*.task
+models/*.download
+evidencias/*.png
+evidencias/*.jpg
+.DS_Store
+# Configurações e arquivos locais
+.env
+.env.*
+*.log
+
+# Evidências pessoais, incluindo vídeos
+evidencias/

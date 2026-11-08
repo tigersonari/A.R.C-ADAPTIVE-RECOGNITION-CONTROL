@@ -1,0 +1,26 @@
+TESTES LOCAIS AUTOMATIZADOS - A.R.C. (DESAFIOS 5 A 8)
+
+Execucao sem webcam fisica e sem pacote MediaPipe nativo.
+Camara, API de rastreamento e landmarks foram simulados em testes especificos.
+A deteccao de maos com o modelo real deve ser testada no Windows.
+
+test_abertura_leitura_encerramento (test_camera.CameraTests.test_abertura_leitura_encerramento) ... ok
+test_erro_camara_indisponivel (test_camera.CameraTests.test_erro_camara_indisponivel) ... ok
+test_erro_frame_invalido (test_camera.CameraTests.test_erro_frame_invalido) ... ok
+test_leitura_sem_iniciar (test_camera.CameraTests.test_leitura_sem_iniciar) ... ok
+test_21_pontos_e_conexoes_validas (test_desenho.DrawingTests.test_21_pontos_e_conexoes_validas) ... ok
+test_coordenadas_ficam_dentro_da_imagem (test_desenho.DrawingTests.test_coordenadas_ficam_dentro_da_imagem) ... ok
+test_desenho_de_21_landmarks_sinteticos (test_desenho.DrawingTests.test_desenho_de_21_landmarks_sinteticos) ... ok
+test_painel_renderiza (test_desenho.DrawingTests.test_painel_renderiza) ... ok
+test_sem_mao (test_desenho.DrawingTests.test_sem_mao) ... ok
+test_modo_camera_inicia_e_fecha (test_integracao.IntegrationTests.test_modo_camera_inicia_e_fecha) ... ok
+test_modo_maos_encadeia_detecao_e_desenho (test_integracao.IntegrationTests.test_modo_maos_encadeia_detecao_e_desenho) ... ok
+test_mensagem_se_modelo_ausente (test_modelo.ModelTests.test_mensagem_se_modelo_ausente) ... ok
+test_mediapipe_video_chamado_com_frame_e_timestamp (test_tracker_simulado.TrackerTests.test_mediapipe_video_chamado_com_frame_e_timestamp) ... ok
+
+----------------------------------------------------------------------
+Ran 13 tests in 0.019s
+
+OK
+A.R.C. em execucao. Pressione Q para sair e S para salvar evidencia.
+A.R.C. em execucao. Pressione Q para sair e S para salvar evidencia.

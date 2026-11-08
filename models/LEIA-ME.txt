@@ -1,0 +1,3 @@
+O modelo hand_landmarker.task nao acompanha este ZIP.
+Execute: python scripts/baixar_modelo.py
+A origem e o link oficial do MediaPipe Hand Landmarker (Google).
