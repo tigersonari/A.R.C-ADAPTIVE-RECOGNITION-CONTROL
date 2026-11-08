@@ -23,7 +23,7 @@ Não considere cada desafio realizado antes de executar seus testes no computado
 **Texto de relatório sugerido:** “Foram desenhados os pontos e as conexões da mão sobre os frames capturados, permitindo observar visualmente seu acompanhamento durante o movimento.”
 
 ## Observação
-Os parágrafos acima são **modelos condicionais**. Só use o verbo no passado após o teste ter sido feito e comprovado.
+Os parágrafos acima são **modelos condicionais**. 
 
 | Desafio | Testado no PC? | Evidência | Problemas/ajustes |
 |---|---|---|---|
@@ -44,7 +44,7 @@ Abrir `--modo analise`; mostrar pelo menos duas posições da mão e registrar a
 
 
 ## Correção D10 — Novo teste de estabilidade
-
+## Observação - já foi corrijido
 Registrar 3 ou 4 prints reais de `--modo analise`: palma aberta, dedos recolhidos, só indicador estendido e pinça polegar–indicador. Documentar as estimativas no painel, diferenças observadas e, se houver, classificações incorretas. Não declarar a correção validada antes dos prints/testes na webcam da estudante.
 
 
